@@ -21,7 +21,7 @@ else
     echo "Failed to download Spark.jar."
 fi
 
-echo "THIS SYSTEM IS RUNNING BY SPARIXXNODES!"
+echo "THIS SYSTEM IS RUNNING BY FUNLIX.ONLINE!"
 # Run Java command
 cd ..
 java -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true -jar server.jar
